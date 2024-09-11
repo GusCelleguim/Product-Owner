@@ -1,5 +1,5 @@
 # **Parabéns por chegar até aqui! 🚀**
-+
+
 Nossos materiais complementares e de apoio têm como objetivo apresentar informações para facilitar e enriquecer a sua jornada de aprendizado. Para isso, links úteis (como slides, repositórios e páginas oficiais) serão disponibilizados, além de dicas sobre como se destacar na DIO e no mercado de trabalho 😉
 
 ### **Slides**

@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4bb3f0af6dc5e5b3",
+        "id": "3661bcacc7a3240f",
         "type": "tabs",
         "children": [
           {
-            "id": "94eb3c120bf2a5a8",
+            "id": "24f02b100e50313f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02- UI/04 - Grid View and list view.md",
+                "file": "02- UI/analise/ferramentas para analise.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7916ff338d675578",
+            "id": "a4020d00c185b6da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material Complementar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ce904b915b4ad41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desafio 01/Figma Desafio.md",
+                "file": "02- UI/04 - componentes/05 - Conteudo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desafio 01/Figma Desafio.md",
+                "file": "02- UI/04 - componentes/05 - Conteudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desafio 01/Figma Desafio.md",
+                "file": "02- UI/04 - componentes/05 - Conteudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desafio 01/Figma Desafio.md"
+                "file": "02- UI/04 - componentes/05 - Conteudo.md"
               }
             }
           }
@@ -171,44 +159,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ce904b915b4ad41",
+  "active": "a4020d00c185b6da",
   "lastOpenFiles": [
+    "02- UI/04 - componentes/03 - Formularios.md",
+    "02- UI/04 - componentes/02 - Listas.md",
+    "02- UI/04 - componentes/01- Navegação.md",
+    "02- UI/04 - componentes/00 - Componentes.md",
+    "02- UI/02- cores/01 - Cores.md",
+    "02- UI/analise/01 - Analise.md",
+    "02- UI/analise/ferramentas para analise.md",
+    "02- UI/05 - Referencias/Sites para Referencias.md",
+    "02- UI/02- cores/03 - Gradientes e sombras.md",
+    "02- UI/02- cores/02 - Cores em Intefaces.md",
+    "02- UI/01- Tipografia/01 - Tipos Tipograficos.md",
+    "Material Complementar.md",
+    "readme.md.md",
     "04 - Estrategia/03 - Jorney map.md",
-    "04 - Estrategia/pdf/~$Calculo de orçamento de projeto.xlsx",
     "04 - Estrategia/02 - Definição de Publico Alvo.md",
+    "04 - Estrategia/01 - Técnica de 360 View.md",
+    "01 - UX/pdf/readme.md",
+    "02- UI/analise",
+    "02- UI/04 - componentes/05 - Conteudo.md",
+    "02- UI/04 - linhas e ornamentos.md",
+    "02- UI/02 - Grid Layout.md",
+    "02- UI/03 - ILUSTRAÇÃO.md",
+    "02- UI/01 - Espaçamentos.md",
+    "01 - UX/01 - Fundamentos de arquitetura/07 - Briefing – Desenvolvimento de Site.md",
+    "01 - UX/01 - Fundamentos de arquitetura/06- moodboard.md",
+    "01 - UX/01 - Fundamentos de arquitetura/05 A Importância da Arquitetura da Informação UX UI e Usabilidade no Design de Produtos Digitais.md",
+    "01 - UX/01 - Fundamentos de arquitetura/03 - Desing System.md",
+    "02- UI/04 - componentes",
+    "02- UI/01- Tipografia",
+    "02- UI/02- cores",
+    "02- UI/05 - Referencias",
+    "04 - Estrategia/pdf/~$Calculo de orçamento de projeto.xlsx",
     "04 - Estrategia/pdf/~$Journey Map.pptx",
     "04 - Estrategia/pdf/~$Definindo Meu Público Alvo.pptx",
-    "04 - Estrategia/01 - Técnica de 360 View.md",
     "img/Pasted image 20240705115214.png",
     "04 - Estrategia/pdf/~$360 View - Validando uma idéia.pptx",
     "04 - Estrategia/pdf/360 View - Validando uma idéia.pptx",
-    "04 - Estrategia/pdf/Journey Map.pptx",
-    "04 - Estrategia/pdf/Definindo Meu Público Alvo.pptx",
-    "04 - Estrategia/pdf/Calculo de orçamento de projeto.xlsx",
-    "04 - Estrategia/pdf/Atuar como Freela - Quanto e como cobrar.pptx",
-    "04 - Estrategia/pdf",
-    "Material Complementar.md",
-    "Untitled.md",
-    "03 - Ferramentas/UI - Ferramentas.md",
-    "03 - Ferramentas/UX - Ferramentas.md",
-    "02- UI/01-wireframe.md",
-    "02- UI/02 - Wireframe vs prototipo.md",
-    "02- UI/04 - Grid View and list view.md",
-    "02- UI/03 - Tipografia.md",
-    "02- UI/02 - Cores.md",
-    "readme.md.md",
-    "Desafio 01/Figma Desafio.md",
-    "01 - UX/01 - Fundamentos de arquitetura/03 - Desing System.md",
-    "01 - UX/01 - Fundamentos de arquitetura/02 -  O que e Usabilidade.md",
-    "01 - UX/01 - Fundamentos de arquitetura/01 - UX.md",
-    "01 - UX/02 - ampliando o seu conhecimento/01 - arquitetura da informação.md",
-    "01 - UX/02 - ampliando o seu conhecimento/02 - Sistemas Da Organização.md",
-    "01 - UX/02 - ampliando o seu conhecimento/03 - SISTEMA DE NAVEGAÇÃO.md",
-    "01 - UX/02 - ampliando o seu conhecimento/04- sistemas de busca.md",
-    "01 - UX/03 - teorias/Teorias de Ux.md",
-    "01 - UX/Material Complementar.md",
-    "01 - ux/pdf/readme.md",
-    "01 - UX/pdf/readme.md",
     "img/Pasted image 20240617151247.png",
     "Pasted image 20240617134817.png",
     "Usabilidade do usuario/Pasted image 20240514150813.png",
